@@ -1,4 +1,6 @@
 import pandas as pd
+
+
 def top_frame(genre, gk, column_to_explore, textt = 'Countries', rango = 5):
     '''Disponible Genres:
     Shooter, Misc, Action, Sports, Fighting, Puzzle, Racing, Platform, Simulation, Adventure, }
